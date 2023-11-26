@@ -11,17 +11,17 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/", "_blank")
+            window.open("https://ethercalc.net/", "_blank")
           }
           className='black_btn'
         >
-          GitHub
+          EtherCalc Analytics Page
         </button>
       </nav>
 
       <h1 className='head_text'>
         Incident Summarizer <br className='max-md:hidden' />
-        <span className='orange_gradient '>IncidentSummary</span>
+        <span className='orange_gradient '>Incident Summary for today's meeting, PST</span>
       </h1>
       <h2 className='desc'>
       Incident Summarizer
