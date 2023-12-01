@@ -15,7 +15,7 @@ const Hero = () => {
           }
           className='black_btn'
         >
-          EtherCalc Analytics Page
+          NearCalc Analytics Page
         </button>
       </nav>
 
