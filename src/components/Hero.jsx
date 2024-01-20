@@ -15,13 +15,13 @@ const Hero = () => {
           }
           className='black_btn'
         >
-          NearCalc Analytics Page
+          ConnectKit XLS Analytics Page
         </button>
       </nav>
 
       <h1 className='head_text'>
         Incident Summarizer <br className='max-md:hidden' />
-        <span className='orange_gradient '>Incident Summary as a Near BOS Component</span>
+        <span className='orange_gradient '>Incident Summary as a QR Code Image File</span>
       </h1>
       <h2 className='desc'>
       Incident Summarizer
